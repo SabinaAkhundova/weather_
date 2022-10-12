@@ -152,3 +152,5 @@ celsiusTemperature.addEventListener("click", showCelsTemp);
 let celsiusTemp = null;
 
 findCity("Odessa");
+
+
